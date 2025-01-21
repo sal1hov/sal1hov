@@ -26,13 +26,13 @@
 
 ## 📊 GitHub статистика:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veilag&show_icons=true&theme=radical" alt="Veilag's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sal1hov&show_icons=true&theme=radical" alt="Veilag's GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=veilag&theme=radical" alt="Veilag's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v&theme=radical" alt="Veilag's Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=veilag&theme=dracula&margin-w=15" alt="Veilag's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sal1hov&theme=dracula&margin-w=15" alt="Veilag's Trophies" />
 </p>
 
 ---
