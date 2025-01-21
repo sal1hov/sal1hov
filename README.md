@@ -8,12 +8,15 @@
 
 ## 🛠️ Мои технологии и инструменты:
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=flat&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </div>
 
 ---
@@ -26,13 +29,13 @@
 
 ## 📊 GitHub статистика:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sal1hov&show_icons=true&theme=radical" alt="Veilag's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sal1hov&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=v&theme=radical" alt="Veilag's Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sal1hov&theme=radical" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sal1hov&theme=dracula&margin-w=15" alt="Veilag's Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sal1hov&theme=dracula&margin-w=15" alt="Trophies" />
 </p>
 
 ---
@@ -40,16 +43,16 @@
 ## 📫 Как связаться со мной:
 <p align="center">
   <a href="https://t.me/whowhosed" target="_blank">
-    <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Telegram-%232CA5E0.svg?style=flat&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:nhtxwd@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-%23D14836.svg?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
 ## 👋 Немного обо мне:
-- 🔭 Сейчас работаю над: **дипломным проектом**
+- 🔭 Сейчас работаю над: **дипломным проектом.**
 - 🌱 Изучаю: **Django и современные фреймворки.**
 - 💬 Готов обсудить: **веб-разработку, оптимизацию производительности и автоматизацию.**
