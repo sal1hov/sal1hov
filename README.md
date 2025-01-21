@@ -7,20 +7,20 @@
 ## 🛠️ Мои технологии и инструменты:
 
 ### 🌐 Фронтенд:
-- **HTML5** — основа разметки для современных веб-приложений.
-- **CSS3** — для стилизации страниц.
-- **JavaScript** — для интерактивности и динамического контента.
-- **Tailwind CSS** — современный CSS-фреймворк для создания адаптивных и стильных интерфейсов.
+- <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> **HTML5** — структура и разметка веб-страниц.
+- <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> **CSS3** — стилизация и оформление веб-страниц.
+- <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> **JavaScript** — динамическое поведение на веб-страницах.
+- <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /> **Tailwind CSS** — утилитарный CSS-фреймворк для быстрой стилизации.
 
 ### 🔧 Бэкенд:
-- **PHP** — серверная часть для динамических приложений.
-- **MySQL** — управление данными с помощью реляционной базы данных.
-- **Django** — мощный Python-фреймворк для быстрой разработки веб-приложений.
+- <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> **PHP** — серверная разработка и динамическое создание веб-страниц.
+- <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> **MySQL** — реляционная система управления базами данных.
+- <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> **Django** — фреймворк для разработки веб-приложений на Python.
 
 ### 🛠️ Инструменты:
-- **Linux** — операционная система для разработки и деплоя приложений.
-- **Git** — система контроля версий для работы в команде.
-- **Visual Studio Code** — удобный редактор кода с большим количеством плагинов.
+- <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> **Linux** — операционная система для разработки.
+- <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> **Git** — система контроля версий для управления исходным кодом.
+- <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> **VS Code** — текстовый редактор с поддержкой множества расширений для веб-разработки.
 
 ---
 
