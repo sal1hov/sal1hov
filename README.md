@@ -1,64 +1,94 @@
-# 👋 Привет, я Камил  
+<h1>Привет, я Камил! 👋</h1>
 
-💻 **Web-разработчик**, который совмещает фронтенд, бэкенд и серверное администрирование.  
-Люблю пробовать новые технологии и превращать идеи в работающие сервисы.  
-
----
-
-## ⚡️ Чем я занимаюсь сейчас
-- 🚀 Экспериментирую с pet-проектами.  
-- 🌱 Изучаю **Django, TypeScript и Node.js**.  
-- 🛠 Настраиваю серверы и автоматизацию через **3x-ui**.  
+<p><b>Web-разработчик</b>, увлекаюсь созданием современных и удобных приложений, а также изучаю серверные технологии.</p>
 
 ---
 
-## 🛠️ Стек технологий
+## 🛠️ Мои технологии и инструменты:
 
-<div align="center">
+### 🌐 Фронтенд:
+Создаю интерфейсы, которые делают взаимодействие простым и удобным.
 
-### 🌐 Фронтенд
-| HTML5 | CSS3 | JavaScript | TypeScript | TailwindCSS | Bootstrap |
-|-------|------|------------|------------|-------------|-----------|
-| <img src="https://skillicons.dev/icons?i=html" width="40"/> | <img src="https://skillicons.dev/icons?i=css" width="40"/> | <img src="https://skillicons.dev/icons?i=javascript" width="40"/> | <img src="https://skillicons.dev/icons?i=typescript" width="40"/> | <img src="https://skillicons.dev/icons?i=tailwind" width="40"/> | <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/> |
-
-### 🔧 Бэкенд
-| Python | Django | PHP | Node.js |
-|--------|--------|-----|---------|
-| <img src="https://skillicons.dev/icons?i=python" width="40"/> | <img src="https://skillicons.dev/icons?i=django" width="40"/> | <img src="https://skillicons.dev/icons?i=php" width="40"/> | <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> |
-
-### 🗄 Базы данных
-| PostgreSQL | MySQL | SQLite |
-|------------|-------|--------|
-| <img src="https://skillicons.dev/icons?i=postgres" width="40"/> | <img src="https://skillicons.dev/icons?i=mysql" width="40"/> | <img src="https://skillicons.dev/icons?i=sqlite" width="40"/> |
-
-### ⚙️ Инструменты
-| Linux | Git | VS Code | 3x-ui |
-|-------|-----|---------|-------|
-| <img src="https://skillicons.dev/icons?i=linux" width="40"/> | <img src="https://skillicons.dev/icons?i=git" width="40"/> | <img src="https://skillicons.dev/icons?i=vscode" width="40"/> | ⚡ |
-
+<div>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </div>
 
+**Описание инструментов:**
+- **HTML5 / CSS3** — основа веб-интерфейсов.  
+- **JavaScript / TypeScript** — динамика и логика фронтенда.  
+- **Tailwind CSS / Bootstrap** — быстрая стилизация и адаптивность.  
+
 ---
 
-## 📊 GitHub статистика  
+### 🔧 Бэкенд:
+Занимаюсь серверной частью и архитектурой приложений.
 
-<div align="center">
-  
-![Stats](https://github-readme-stats.vercel.app/api?username=sal1hov&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sal1hov&layout=compact&theme=radical)  
-![Trophies](https://github-profile-trophy.vercel.app/?username=sal1hov&theme=dracula&margin-w=15)
-
+<div>
+  <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=yellow" alt="Python" />
+  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/3x--ui-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="3x-ui" />
 </div>
 
+**Описание инструментов:**
+- **Python / Django** — быстрый бэкенд и админки.  
+- **Node.js / Express** — серверные API и сервисы.  
+- **PHP** — для динамических сайтов.  
+- **3x-ui** — админка и управление сервисами.  
+
 ---
 
-## 📬 Контакты
-📩 [Email](mailto:nhtxwd@gmail.com)  
-✈️ [Telegram](https://t.me/whowhosed)  
+### 🗄 Базы данных:
+<div>
+  <img src="https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+</div>
+
+**Описание:**
+- **PostgreSQL / MySQL** — реляционные базы для сложных приложений.  
+- **SQLite** — простая и лёгкая база для небольших проектов.  
 
 ---
 
-## ✨ Немного обо мне
-- 🔭 Работаю над **собственными веб-сервисами и ботами**.  
-- 💡 Интересуюсь **автоматизацией, серверными технологиями и UI/UX**.  
-- 🎧 Код под музыку — лучший флоу.  
+### ⚙️ Инструменты:
+<div>
+  <img src="https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</div>
+
+**Описание:**
+- **Linux** — работа с серверами.  
+- **Git** — контроль версий.  
+- **VS Code / Postman** — удобная разработка и тестирование API.  
+
+---
+
+## 📊 GitHub статистика:
+<img src="https://github-readme-stats.vercel.app/api?username=sal1hov&show_icons=true&theme=radical" alt="GitHub Stats" />
+<br />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sal1hov&layout=compact&theme=radical" alt="Top Languages" />
+<br />
+<img src="https://github-profile-trophy.vercel.app/?username=sal1hov&theme=dracula&margin-w=15" alt="Trophies" />
+
+---
+
+## 📫 Как связаться со мной:
+- [Telegram](https://t.me/whowhosed)  
+- [Email](mailto:nhtxwd@gmail.com)  
+
+---
+
+## 👋 Немного обо мне:
+- 🔭 Работаю над: **собственными сервисами и ботами.**  
+- 🌱 Изучаю: **современные фреймворки, DevOps-подходы.**  
+- 💬 Интересуюсь: **веб-разработкой, автоматизацией и серверными технологиями.**  
