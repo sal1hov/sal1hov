@@ -17,12 +17,6 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </div>
-
-**Описание инструментов:**
-- **HTML5 / CSS3** — основа веб-интерфейсов.  
-- **JavaScript / TypeScript** — динамика и логика фронтенда.  
-- **Tailwind CSS / Bootstrap** — быстрая стилизация и адаптивность.  
-
 ---
 
 ### 🔧 Бэкенд:
@@ -37,12 +31,6 @@
   <img src="https://img.shields.io/badge/3x--ui-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="3x-ui" />
 </div>
 
-**Описание инструментов:**
-- **Python / Django** — быстрый бэкенд и админки.  
-- **Node.js / Express** — серверные API и сервисы.  
-- **PHP** — для динамических сайтов.  
-- **3x-ui** — админка и управление сервисами.  
-
 ---
 
 ### 🗄 Базы данных:
@@ -51,10 +39,6 @@
   <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </div>
-
-**Описание:**
-- **PostgreSQL / MySQL** — реляционные базы для сложных приложений.  
-- **SQLite** — простая и лёгкая база для небольших проектов.  
 
 ---
 
@@ -65,11 +49,6 @@
   <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </div>
-
-**Описание:**
-- **Linux** — работа с серверами.  
-- **Git** — контроль версий.  
-- **VS Code / Postman** — удобная разработка и тестирование API.  
 
 ---
 
